@@ -18,7 +18,7 @@
   margin: 30px auto;
 }
 .space {
-  margin-bottom: 20px;
+  margin-bottom: 2em;
 }
 .top-bar {
   height: 100px;
@@ -33,19 +33,22 @@
   height: 60px;
   background-color: green;
 }
+.main-bottom {
+  background-color: brown;
+}
 .side {
   background-color: aqua;
   float: left;
   height: 200px;
   width: 25%;
-  margin-top: 8px;
+  margin-top: 1em;
 }
 .center {
   background-color: black;
   float: left;
   height: 200px;
-  width: 48%;
-  margin: 8px;
+  width: 46%;
+  margin: 2%;
 }
 
 .footer {
